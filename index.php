@@ -15,7 +15,7 @@ if (G5_IS_MOBILE) {
 }
 
 include_once(G5_PATH.'/head.php');
-echo "테스트성공";
+echo "테스트성공2";
 ?>
 
 <h2 class="sound_only">최신글</h2>
