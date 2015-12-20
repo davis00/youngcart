@@ -8,7 +8,7 @@ if(defined('G5_THEME_PATH')) {
     require_once(G5_THEME_PATH.'/index.php');
     return;
 }
-
+echo 'phpstorm';
 if (G5_IS_MOBILE) {
     include_once(G5_MOBILE_PATH.'/index.php');
     return;
